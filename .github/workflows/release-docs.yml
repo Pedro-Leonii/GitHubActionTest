@@ -15,7 +15,8 @@ jobs:
         - name: check out target
           uses: actions/checkout@v4
           with: 
-            name: ${{env.TARGET}}
+            repository: PedroLeonii/prova
+            token: ${{ secrets.PAT_PROVA }}
 
         - name: echo
           run: tree 
