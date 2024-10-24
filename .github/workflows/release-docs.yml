@@ -12,15 +12,10 @@ jobs:
         - name: checkout source
           uses: actions/checkout@v4
             
-        - name: Compile LaTeX document
-          uses: xu-cheng/latex-action@v3
-          with:
-            root_file: "*.tex"
-            
         - name: check out target
           uses: actions/checkout@v4
           with: 
-            repository: ${{env.TARGET}}
+            name: ${{env.TARGET}}
 
         - name: echo
-          run: ls
+          run: tree 
