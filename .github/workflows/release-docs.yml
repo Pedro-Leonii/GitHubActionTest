@@ -1,0 +1,26 @@
+name: Rilascio documentazione compilata
+
+on: 
+    push:
+        branches:
+            - main
+jobs:
+    publish:
+        runs-on: ubuntu-latest
+
+        steps:
+        - name: checkout source
+          uses: checkout@v2
+            
+        - name: Compile LaTeX document
+          uses: xu-cheng/latex-action@v2
+          with:
+            root_file: *.tex 
+            
+        - name: check out target
+          uses: checkout@v2
+          with: 
+            repository: ${{env.TARGET}}
+
+        - name: echo
+          run: echo "fino a qui tutto bene"
