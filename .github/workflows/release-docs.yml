@@ -21,7 +21,6 @@ jobs:
           uses: actions/checkout@v4
           with: 
             repository: ${{env.TARGET}}
-            path: "../"
 
         - name: echo
-          run: echo "fino a qui tutto bene"
+          run: ls
