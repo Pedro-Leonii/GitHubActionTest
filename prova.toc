@@ -1,0 +1,4 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Esempio sezione principle}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Esempio sezione secondaria}{3}{subsection.1.1}%

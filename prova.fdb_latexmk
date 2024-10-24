@@ -1,15 +1,13 @@
 # Fdb version 4
-["makeindex prova.idx"] 1729779112.91979 "prova.idx" "prova.ind" "prova" 1729779112.93395 2
-  "prova.idx" 0 -1 0 "pdflatex"
+["makeindex prova.idx"] 1729779436.22225 "prova.idx" "prova.ind" "prova" 1729779436.74114 0
+  "prova.idx" 1729779436 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "prova.ilg"
   "prova.ind"
   (rewritten before read)
-["pdflatex"] 1729779112.13448 "c:/Users/pedro/OneDrive/Desktop/GitHubActionTest/prova.tex" "prova.pdf" "prova" 1729779112.93422 2
-  "../Immagini/logoConNome.png" 0 -1 0 ""
-  "c:/Users/pedro/OneDrive/Desktop/GitHubActionTest/prova.tex" 1729779021 1937 cdc5e864c17bc6cb2475d49dd59f9286 ""
+["pdflatex"] 1729779436.25968 "c:/Users/pedro/OneDrive/Desktop/GitHubActionTest/prova.tex" "prova.pdf" "prova" 1729779436.74151 0
+  "c:/Users/pedro/OneDrive/Desktop/GitHubActionTest/prova.tex" 1729779435 1881 b4d8c972199abd453011500b5e06319e ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1728558259 2327 9d6df24f9c4f7368395224341a95523a ""
-  "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc" 1728558259 2359 de53213020575850c8f8debc35095765 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1728558259 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1728558172 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm" 1728558259 992 ce925c9346c7613270a79afbee98c070 ""
@@ -28,14 +26,12 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm" 1728558259 11040 703db6eee3cd6f6cd9800b057b63d1d3 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm" 1728558259 10956 dad25672db463289a56f0700c0488a86 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmsso12.tfm" 1728558259 11152 2bed6cf9b103824354722a9ef14b4e1a ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm" 1728558259 1336 3f1d3798f35e35601b79a222d795ee97 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmss12.tfm" 1728558259 1616 c39fdc7c64b8176841da12b57edf2370 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb" 1728558260 109265 e6c7d377db6dfccd4a123fb26da8cffb ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb" 1728558260 96107 daf52840b555e3b38f9679b629b5e2df ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss17.pfb" 1728558260 97155 ffb6880a68751002f414154d64548ca3 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb" 1728558260 119663 1a3a2206591ddc98c6d6c6271a282516 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso12.pfb" 1728558260 109054 c1447b33e20f8aea130da0724b569017 ""
-  "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb" 1728558260 110323 19372944fba298bb4c4758abff959582 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1728558288 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1728558153 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2024/texmf-dist/tex/generic/babel-italian/italian.ldf" 1729516750 11361 8658bbf8ead5c43fd2f199c4b2910145 ""
@@ -91,7 +87,6 @@
   "c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd" 1728558260 568 a5494d810f2680caf10205cd1226c76c ""
   "c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd" 1728558260 1882 28c08db1407ebff35a658fd141753d16 ""
   "c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmss.fd" 1728558260 1657 338c306198616f83902603448cf66d97 ""
-  "c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd" 1728558260 2713 c40650b5e64f743884fe5c8bc940e517 ""
   "c:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmss.fd" 1728558260 1671 4f401f2da878d7f258034a2eb5f42c85 ""
   "c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1728558313 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1728558315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
@@ -103,11 +98,11 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729516981 77129 aa3010669de0ee72d9164d9bddf80230 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729688373 1953911 703df96668448b3403d6dd366e4d6d3f ""
   "c:/texlive/2024/texmf.cnf" 1728558352 713 e69b156964470283e0530f5060668171 ""
-  "prova.aux" 0 -1 0 "pdflatex"
-  "prova.ind" 0 -1 0 "makeindex prova.idx"
-  "prova.out" 0 -1 0 "pdflatex"
-  "prova.tex" 1729779021 1937 cdc5e864c17bc6cb2475d49dd59f9286 ""
-  "prova.toc" 0 -1 0 "pdflatex"
+  "prova.aux" 1729779436 557 d845286011f20b444cd3a0204c497635 "pdflatex"
+  "prova.ind" 1729779436 0 d41d8cd98f00b204e9800998ecf8427e "makeindex prova.idx"
+  "prova.out" 1729779436 367 b8eae4c5ecec04bba15486b767113876 "pdflatex"
+  "prova.tex" 1729779435 1881 b4d8c972199abd453011500b5e06319e ""
+  "prova.toc" 1729779436 233 257b5ed648f92e1ba38921aa423c10e9 "pdflatex"
   (generated)
   "prova.aux"
   "prova.idx"
